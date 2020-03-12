@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnemyData>
+	<Enemy>
+		<Name>Basic</Name>
+		<Health>2</Health>
+		<State>BasicState</State>
+		<Sprite>ship2</Sprite>
+	</Enemy>
+</EnemyData>
